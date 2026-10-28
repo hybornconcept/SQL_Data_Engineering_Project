@@ -1,4 +1,4 @@
 SELECT 
-    job_title_short
+    job_title_shortage
 FROM
-    job_postings_fact ;
+    job_postings_fact;
